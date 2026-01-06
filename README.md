@@ -45,10 +45,10 @@ The dashboard provides actionable insights into campaign effectiveness, audience
 
 | Layer | Technology | Purpose |
 |------|------------|---------|
-| Data Source | CSV / Excel | Raw ad event, user, ad, and campaign data |
-| Data Model | Power BI | Star / snowflake schema |
-| Logic Layer | DAX | KPI calculations and business metrics |
-| Visualization | Power BI | Interactive dashboards and insights |
+| Data Source | CSV | Raw transactional data |
+| Database | SQL Server | Data cleaning and KPI logic |
+| Logic Layer | SQL + DAX | Business rules and calculations |
+| Visualization | Power BI | Dashboards and insights |
 
 ---
 
