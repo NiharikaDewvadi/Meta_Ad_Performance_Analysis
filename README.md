@@ -134,7 +134,9 @@ Centralized KPIs and interactive analysis reduce manual reporting effort, saving
 
 ---
 
-### 🔗 Dashboard Links
+### 🔗 Dashboard Previews
+Screenshots of both dashboards are available below for quick reference.
+
 - 📸 **[Instagram Ad Performance Dashboard](powerbi/Instagram_Ad_Performance.png)**
 - 📘 **[Facebook Ad Performance Dashboard](powerbi/Facebook_Ad_Performance.png)**
 
